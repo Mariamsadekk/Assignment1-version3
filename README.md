@@ -109,11 +109,11 @@ Borrowed Books: 1
 
 **Deliverables**
 
--A header file for each of the above classes.
+- A header file for each of the above classes.
 
--A single source file (.cpp) containing the main() function implementation.
+- A single source file (.cpp) containing the main() function implementation.
 
--A text file including your name in the format:
+- A text file including your name in the format:
 
-**TutorialNumber_StudentID_StudentName**
-e.g. T02_16002222_Ahmed Mohamed
+ **TutorialNumber_StudentID_StudentName**
+ e.g. T02_16002222_Ahmed Mohamed
