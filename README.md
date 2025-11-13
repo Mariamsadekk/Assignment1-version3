@@ -32,8 +32,10 @@ Methods:
 
 - Novel
   `string genre` (e.g., “Romance”, “Mystery”, etc.)
+  
 - Magazine
-  `int issueNumber` 
+  `int issueNumber`
+  
 - Textbook
   `string subject`
 
@@ -72,7 +74,7 @@ Should consist of:
 
 - Member method implementations for every class.
 
-- A 'main()` function that:
+- A `main()` function that:
 
 - Creates a Library object.
 - Creates and adds 3 different book types (Novel, Magazine, Textbook) dynamically to the library.
