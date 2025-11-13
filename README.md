@@ -30,13 +30,13 @@ Methods:
 
 **Subclasses of Book**
 
-- Novel
+- Novel class that has attribute:
   `string genre` (e.g., “Romance”, “Mystery”, etc.)
   
-- Magazine
+- Magazine class that has attribute:
   `int issueNumber`
   
-- Textbook
+- Textbook class that has attribute:
   `string subject`
 
 **b) Library Class**
