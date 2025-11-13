@@ -49,8 +49,9 @@ Attributes (all private):
 
 Methods:
 
-`void addBook(Book* b)`: Adds a new book dynamically to the collection.
-`void displayBooks()`: Displays all books in the library.
+- `void addBook(Book* b)`: Adds a new book dynamically to the collection.
+
+- `void displayBooks()`: Displays all books in the library.
 
 **c) Member Class**
 
@@ -58,12 +59,12 @@ Represents a library member.
 
 Attributes (all private):
 
-`string memberName`
-`int borrowedBooksCount`
+- `string memberName`
+- `int borrowedBooksCount`
 
 Methods:
 
-`void displayInfo()`: Displays member details.
+- `void displayInfo()`: Displays member details.
 
 d) Source File (main.cpp)
 
