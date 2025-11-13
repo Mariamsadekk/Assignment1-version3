@@ -33,9 +33,8 @@ Methods:
 - Novel
   `string genre` (e.g., “Romance”, “Mystery”, etc.)
 - Magazine
-  `int issueNumber`
-  
--Textbook
+  `int issueNumber` 
+- Textbook
   `string subject`
 
 **b) Library Class**
