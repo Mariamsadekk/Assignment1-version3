@@ -8,6 +8,7 @@ This milestone focuses on Object-Oriented Programming (OOP) concepts such as inh
 The goal is to design the system’s structure in preparation for additional functionalities (borrowing history, fines, and due dates) in Milestone 2.
 
 **Milestone 01: Required Classes and Methods**
+
 **a) Book Class**
 
 Represents a generic book in the library.
