@@ -68,11 +68,9 @@ Methods:
 
 - `void displayInfo()`: Displays member details.
 
-d) Source File (main.cpp)
+**d) Source File (main.cpp)**
 
 Should consist of:
-
-- Member method implementations for every class.
 
 - A `main()` function that:
 
