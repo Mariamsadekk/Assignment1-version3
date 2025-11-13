@@ -34,6 +34,7 @@ Methods:
   `string genre` (e.g., “Romance”, “Mystery”, etc.)
 - Magazine
   `int issueNumber`
+  
 -Textbook
   `string subject`
 
