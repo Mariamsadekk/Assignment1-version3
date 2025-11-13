@@ -22,9 +22,11 @@ Attributes (all private):
 
 Methods:
 
-`void display()`: Displays the book’s title, year, and availability status.
-`void borrowBook()`: Marks the book as borrowed.
-`void returnBook()`: Marks the book as available again.
+- `void display()`: Displays the book’s title, year, and availability status.
+
+- `void borrowBook()`: Marks the book as borrowed.
+
+- `void returnBook()`: Marks the book as available again.
 
 **Subclasses of Book**
 
