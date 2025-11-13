@@ -51,7 +51,7 @@ Attributes (all private):
 
 Methods:
 
-- `void addBook(const Book& b)`: Adds a new book dynamically to the collection.
+- `void addBook(const Book& b)`: Adds a book to the collection.
 
 - `void displayBooks()`: Displays all books in the library.
 
