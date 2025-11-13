@@ -82,34 +82,36 @@ Should consist of:
 **🧾 Console Output**
 
 Library Books:
+
 Novel: The Silent Patient (Year: 2019, Genre: Thriller, Available)
+
 Magazine: National Geographic (Year: 2023, Issue: 45, Available)
+
 Textbook: Introduction to AI (Year: 2021, Subject: Computer Science, Borrowed)
 
 Member Info:
+
 Name: Omar Khaled
+
 Borrowed Books: 1
 
 **Important Notes**
 
-Cheating = 0 in the assignment.
-AI-generated code = 0 in the project.
-All attributes in classes must be private with setters/getters (if needed).
-Each class must have:
+- Cheating = 0 in the assignment.
+- AI-generated code = 0 in the project.
+- All attributes in classes must be private with setters/getters (if needed).
+- Each class must have:
 
-- A default constructor
+  - A default constructor
+  - A parameterized constructor
+  - A destructor (even if empty)
 
-- A parameterized constructor
-
-- A destructor (even if empty)
-
-- Arrays and objects must be dynamically allocated.
 
 **Deliverables**
 
 -A header file for each of the above classes.
 
--A single source file (.cpp) containing all implementations and the main() function.
+-A single source file (.cpp) containing the main() function implementation.
 
 -A text file including your name in the format:
 
