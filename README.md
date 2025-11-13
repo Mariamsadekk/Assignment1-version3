@@ -113,7 +113,7 @@ Borrowed Books: 1
 
 - A single source file (.cpp) containing the main() function implementation.
 
-- A text file including your name in the format:
+- A text file (yourInformation.txt) including your information in the same following format:
 
  **TutorialNumber_StudentID_StudentName**
  e.g. T02_16002222_Ahmed Mohamed
