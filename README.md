@@ -75,7 +75,7 @@ Should consist of:
 - A `main()` function that:
 
   - Creates a Library object.
-  - Creates and adds 3 different book types (Novel, Magazine, Textbook) dynamically to the library.
+  - Creates and adds 3 different book types (Novel, Magazine, Textbook) to the library.
   - Creates a Member object with their details.
   - Displays all library and member information using the **exact** console format below.
 
