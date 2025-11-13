@@ -81,9 +81,9 @@ Should consist of:
 
 **🧾 Console Output**
 
-Library Books:
-Novel: The Silent Patient (Year: 2019, Genre: Thriller, Available)
-Magazine: National Geographic (Year: 2023, Issue: 45, Available)
+Library Books:   
+Novel: The Silent Patient (Year: 2019, Genre: Thriller, Available)   
+Magazine: National Geographic (Year: 2023, Issue: 45, Available)   
 Textbook: Introduction to AI (Year: 2021, Subject: Computer Science, Borrowed)
 
 Member Info:
